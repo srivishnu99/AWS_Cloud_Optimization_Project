@@ -15,8 +15,5 @@ Deleted the EC2 instance:
 Execution: 
 ![image](https://github.com/user-attachments/assets/a5159e91-4f1e-45ca-8d82-eda6d7982969)
 
-Snapshot Deleted:
+Lambda function identified EBS snapshots that are no longer associated with any active EC2 instance and deleted:
 ![image](https://github.com/user-attachments/assets/2346b680-6be4-4424-b24d-af3420682862)
-
-
-
